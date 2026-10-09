@@ -47,5 +47,9 @@
 - [python](https://github.com/Miss001/python)：Python 环境配置与迁移
 - [online-tool](https://github.com/Miss001/online-tool)：在线工具网址记录
 
+### 📫 联系我
+
+- 邮箱：[522160919@qq.com](mailto:522160919@qq.com)
+
 <!-- 可选：GitHub 统计卡片（第三方服务，偶尔加载不出来，不需要可删除） -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miss001&show_icons=true&hide_border=true)
