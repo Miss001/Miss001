@@ -1,7 +1,5 @@
 ## 你好，我是 宇宙超级无敌美少女 👋
 
-> 从未抵达，一直在路上
-
 数据工程师，日常和数据打交道：写 Spark / Hive 离线任务，在 Elasticsearch 与 MySQL、Oracle 之间搬数据，用 Azkaban 编排调度，也在研究国产数据库（openGauss、OceanBase、GaussDB）的部署与迁移。
 
 ### 🛠 技术栈
@@ -42,10 +40,14 @@
 
 ### 📚 学习笔记
 
-- [docker](https://github.com/Miss001/docker)：Docker 部署笔记
-- [ai](https://github.com/Miss001/ai)：Dify、Ollama 本地部署与使用
-- [python](https://github.com/Miss001/python)：Python 环境配置与迁移
-- [online-tool](https://github.com/Miss001/online-tool)：在线工具网址记录
+笔记已合并到 [data-engineering-notes](https://github.com/Miss001/data-engineering-notes)。
+
+- [数据库](https://github.com/Miss001/data-engineering-notes/tree/main/database)：MySQL / Oracle / PostgreSQL / TiDB / 达梦 / 国产库 / MyCat
+- [大数据](https://github.com/Miss001/data-engineering-notes/tree/main/bigdata)：CDH / Spark / Kylin / HDFS / Elasticsearch / Kettle
+- [运维](https://github.com/Miss001/data-engineering-notes/tree/main/ops)：Linux / Docker
+- [AI](https://github.com/Miss001/data-engineering-notes/tree/main/ai)：Dify / Ollama
+- [开发](https://github.com/Miss001/data-engineering-notes/tree/main/dev)：Python 环境
+- [链接](https://github.com/Miss001/data-engineering-notes/blob/main/links.md)：在线工具 / DB-GPT
 
 ### 📫 联系我
 
