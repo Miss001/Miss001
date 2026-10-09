@@ -46,17 +46,14 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [esoperation](https://github.com/Miss001/esoperation) | Elasticsearch 数据导入导出命令行工具：ES ↔ CSV / MySQL / Oracle，支持 scroll 批量读取和多线程 bulk 写入 |
-| [spark_kylin](https://github.com/Miss001/spark_kylin) | PySpark 任务模板：Hive 全量/增量同步到 ES（upsert），回写 Hive，再通过 REST API 并发构建 Kylin Cube，Azkaban 编排 |
-| [hiveudf](https://github.com/Miss001/hiveudf) | Scala 编写的 Hive UDF 合集：日期周期格式化、码表/机构字典翻译、字符串余弦相似度 |
 | [znbb](https://github.com/Miss001/znbb) | 自然语言查数实验：NER 实体识别 + 向量检索指标与表结构 + 大模型生成 SQL（MySQL / Oracle / ES SQL） |
-| [holiday](https://github.com/Miss001/holiday) | 抓取百度日历接口，生成全年节假日（含调休）日期表，导出 Excel，可作为数仓日期维表的数据源 |
 
 ### 📚 学习笔记
 
 - [docker](https://github.com/Miss001/docker)：Docker 部署笔记
 - [ai](https://github.com/Miss001/ai)：Dify、Ollama 本地部署与使用
 - [python](https://github.com/Miss001/python)：Python 环境配置与迁移
+- [online-tool](https://github.com/Miss001/online-tool)：在线工具网址记录
 
 ### 📫 联系我
 
