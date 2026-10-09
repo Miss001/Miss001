@@ -4,7 +4,7 @@
 
 > 从未抵达，一直在路上
 
-数据工程师，日常和数据打交道：写 Spark / Hive 离线任务，在 Elasticsearch 与 MySQL、Oracle 之间搬数据，用 Azkaban 编排调度，也在研究国产数据库（openGauss、OceanBase、GaussDB）的部署与迁移。最近在尝试用大模型做自然语言查数（NL2SQL）。
+数据工程师，日常和数据打交道：写 Spark / Hive 离线任务，在 Elasticsearch 与 MySQL、Oracle 之间搬数据，用 Azkaban 编排调度，也在研究国产数据库（openGauss、OceanBase、GaussDB）的部署与迁移。
 
 ### 🛠 技术栈
 
@@ -41,12 +41,6 @@
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square)
-
-### 📌 精选项目
-
-| 项目 | 简介 |
-| --- | --- |
-| [znbb](https://github.com/Miss001/znbb) | 自然语言查数实验：NER 实体识别 + 向量检索指标与表结构 + 大模型生成 SQL（MySQL / Oracle / ES SQL） |
 
 ### 📚 学习笔记
 
