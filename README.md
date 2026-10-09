@@ -43,7 +43,8 @@
 笔记已合并到 [data-engineering-notes](https://github.com/Miss001/data-engineering-notes)。
 
 - [数据库](https://github.com/Miss001/data-engineering-notes/tree/main/database)：MySQL / Oracle / PostgreSQL / TiDB / 达梦 / 国产库 / MyCat
-- [大数据](https://github.com/Miss001/data-engineering-notes/tree/main/bigdata)：CDH / Spark / Kylin / HDFS / Elasticsearch / Kettle
+- [大数据](https://github.com/Miss001/data-engineering-notes/tree/main/bigdata)：CDH / Spark / Kylin / HDFS / Elasticsearch
+- [ETL](https://github.com/Miss001/data-engineering-notes/tree/main/etl)：Kettle
 - [运维](https://github.com/Miss001/data-engineering-notes/tree/main/ops)：Linux / Docker
 - [AI](https://github.com/Miss001/data-engineering-notes/tree/main/ai)：Dify / Ollama
 - [开发](https://github.com/Miss001/data-engineering-notes/tree/main/dev)：Python 环境
