@@ -1,5 +1,3 @@
-<!-- 主页 README 草稿：放进与用户名同名的仓库 Miss001/Miss001 根目录即可生效 -->
-
 ## 你好，我是 宇宙超级无敌美少女 👋
 
 > 从未抵达，一直在路上
@@ -48,12 +46,6 @@
 - [ai](https://github.com/Miss001/ai)：Dify、Ollama 本地部署与使用
 - [python](https://github.com/Miss001/python)：Python 环境配置与迁移
 - [online-tool](https://github.com/Miss001/online-tool)：在线工具网址记录
-
-### 📫 联系我
-
-<!-- TODO：替换为真实联系方式，不想公开的项可以删掉 -->
-- 邮箱：`【待填写】`
-- 博客 / 个人网站：`【待填写】`
 
 <!-- 可选：GitHub 统计卡片（第三方服务，偶尔加载不出来，不需要可删除） -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miss001&show_icons=true&hide_border=true)
